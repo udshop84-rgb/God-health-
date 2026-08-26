@@ -1,0 +1,6 @@
+{
+  "name": "Health is everything",
+  "description": "An evidence-based health, longevity, and wellness platform featuring peer-reviewed articles, high-definition video masterclasses, video uploads, saved favorites, and personal health profile tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
